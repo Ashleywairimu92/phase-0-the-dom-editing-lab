@@ -28,3 +28,4 @@ describe("within index.html", () => {
     expect(document.querySelector("body").innerHTML).to.include("table");
   });
 });
+ 
